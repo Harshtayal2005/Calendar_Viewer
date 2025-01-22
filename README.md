@@ -1,4 +1,4 @@
-```markdown
+
 # Google OAuth Integration with React
 
 This project demonstrates how to integrate Google OAuth into a React application using the `@react-oauth/google` package. The setup includes retrieving calendar events via Google Calendar API and securing sensitive information like the client ID.
