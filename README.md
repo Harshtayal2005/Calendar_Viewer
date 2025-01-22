@@ -19,7 +19,7 @@ This project demonstrates how to integrate Google OAuth into a React application
 
 ```bash
 git clone https://github.com/Harshtayal2005/Calendar_Viewer.git
-cd Google SSO
+cd Calendar_Viewer
 ```
 
 ### Install Dependencies
