@@ -1,4 +1,3 @@
-
 # Google OAuth Integration with React
 
 This project demonstrates how to integrate Google OAuth into a React application using the `@react-oauth/google` package. The setup includes retrieving calendar events via Google Calendar API and securing sensitive information like the client ID.
@@ -17,12 +16,14 @@ This project demonstrates how to integrate Google OAuth into a React application
     ```
 
 ### Clone the Repository
+
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/Harshtayal2005/Calendar_Viewer.git
+cd Google SSO
 ```
 
 ### Install Dependencies
+
 ```bash
 npm install
 ```
@@ -38,14 +39,17 @@ npm install
 ### Configure Environment Variables
 
 1. Create a `.env` file in the root directory of the project:
+
    ```bash
    touch .env
    ```
 
 2. Add the following line to the `.env` file:
+
    ```
    VITE_GOOGLE_CLIENT_ID=YOUR_GOOGLE_CLIENT_ID
    ```
+
    Replace `YOUR_GOOGLE_CLIENT_ID` with the actual Client ID.
 
 3. Ensure `.env` is included in `.gitignore` to prevent it from being committed:
@@ -54,6 +58,7 @@ npm install
    ```
 
 ### Start the Development Server
+
 ```bash
 npm run dev
 ```
@@ -70,6 +75,7 @@ npm run dev
 ---
 
 ## Run the Application
+
 ```bash
 npm run dev
 ```
@@ -77,4 +83,7 @@ npm run dev
 ---
 
 For further assistance, feel free to reach out! 🚀
+
+```
+harshtayal2005@gmail.com
 ```
